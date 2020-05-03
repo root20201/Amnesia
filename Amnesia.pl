@@ -17,7 +17,7 @@ print q{
  |  | |  ||  |   |  ||  | \   |  |  `---.\       / |  |'->|  | |  |
  `--' `--'`--'   `--'`--'  `--'  `------' `-----'  `--'   `--' `--'
 Made by Pyr0is/Pyr0ThePlug.
-};
+};[[[[[[[][][
  
 print "\n------------------------------";
 print "\n The IP you want to hit with Amnesia:";
